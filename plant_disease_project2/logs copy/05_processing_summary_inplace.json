@@ -1,0 +1,301 @@
+{
+  "project": "Plant Disease Detection - Graduation Project",
+  "phase": "Advanced Image Processing (In-Place)",
+  "processing_date": "2025-10-28T00:51:08.859600",
+  "processing_location": "Applied directly to source data",
+  "source_path": "/Users/amirah/Ghiras's datast/THE DATA",
+  "statistics": {
+    "total_images_processed": 83668,
+    "failed_processing": 0,
+    "target_size": [
+      224,
+      224
+    ],
+    "total_diseases": 95
+  },
+  "processing_techniques": {
+    "1_denoising": {
+      "name": "Bilateral Filter",
+      "description": "Edge-preserving noise reduction",
+      "formula": "Gaussian filtering in spatial and color (range) domains",
+      "parameters": {
+        "diameter": 9,
+        "sigma_color": 75,
+        "sigma_space": 75
+      }
+    },
+    "2_contrast_enhancement": {
+      "name": "CLAHE",
+      "description": "Contrast Limited Adaptive Histogram Equalization",
+      "formula": "Split image into 8×8 tiles and enhance each tile independently",
+      "parameters": {
+        "clip_limit": 2.0,
+        "tile_grid_size": 8
+      }
+    },
+    "3_resizing": {
+      "name": "Aspect Ratio Preserving Resize",
+      "description": "Resize with white padding to maintain proportions",
+      "formula": "Compute optimal scale + add white padding",
+      "target_size": [
+        224,
+        224
+      ]
+    },
+    "4_normalization": {
+      "name": "Min-Max Scaling",
+      "description": "Normalize pixel values to [0, 255]",
+      "formula": "(x - min) / (max - min) * 255",
+      "output_range": "[0, 255]"
+    }
+  },
+  "disease_distribution": {
+    "Apple_Apple_scab": 2520,
+    "Apple_Black_rot": 2484,
+    "Apple_Cedar_apple_rust": 2200,
+    "Apple_healthy": 2500,
+    "Blueberry_healthy": 1816,
+    "Cherry_Powdery_mildew": 1683,
+    "Cherry_healthy": 1826,
+    "Corn_Cercospora_leaf_spot Gray_leaf_spot": 1642,
+    "Corn_Common_rust_": 1907,
+    "Corn_Northern_Leaf_Blight": 1908,
+    "Corn_healthy": 1859,
+    "Cucumber ـBacterialـWilt": 159,
+    "Cucumber_Gummy_Stem_Blight": 160,
+    "Cucumber_Pythium_Fruit_Rot": 160,
+    "CucumberـAnthracnose": 160,
+    "CucumberـBelly Rot": 160,
+    "CucumberـDownyـMildew": 160,
+    "Cucumberـhealthy": 160,
+    "Downy_mildew_on_lettuce": 30,
+    "Grape_Black_rot": 1888,
+    "Grape_Esca_(Black_Measles)": 1920,
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": 1722,
+    "Grape_healthy": 1692,
+    "Lemon_Anthracnose": 251,
+    "Lemon_Black_Spot": 88,
+    "Lemon_Citrus_Canker": 33,
+    "Lemon_Citrus_Leaf_Miner": 89,
+    "Lemon_Curl_Leaf": 79,
+    "Lemon_Dry_leaf": 97,
+    "Lemon_Greening": 438,
+    "Lemon_Healthy": 221,
+    "Lemon_Melanose": 126,
+    "Lettuce_Bacterial": 17,
+    "LettuceـHealthy": 1123,
+    "LettuceـShepherd_purse_weeds": 1102,
+    "Orange_Haunglongbing_(Citrus_greening)": 2010,
+    "Peach_Bacterial_spot": 1838,
+    "Peach_healthy": 1728,
+    "Pepper_bell_Bacterial_spot": 2088,
+    "Pepper_bell_healthy": 2300,
+    "Potato_Early_blight": 2149,
+    "Potato_Late_blight": 2131,
+    "Potato_healthy": 1854,
+    "Powdery_mildew_on_lettuce": 18,
+    "Septoria_blight_on_lettuce": 18,
+    "Soybean___healthy": 2022,
+    "Squash_Powdery_mildew": 1736,
+    "Strawberry_Leaf_scorch": 1774,
+    "Strawberry_healthy": 1824,
+    "Tomato_Bacterial_spot": 2127,
+    "Tomato_Early_blight": 1000,
+    "Tomato_Late_blight": 1901,
+    "Tomato_Leaf_Mold": 952,
+    "Tomato_Septoria_leaf_spot": 1771,
+    "Tomato_Spider_mites_Two_spotted_spider_mite": 1676,
+    "Tomato_Target_Spot": 1404,
+    "Tomato_Yellow_Leaf_Curl_Virus": 3208,
+    "Tomato_healthy": 1585,
+    "Tomato_mosaic_virus": 373,
+    "Watermelon_Downy_Mildew": 380,
+    "Watermelon_Healthy": 205,
+    "Watermelon_Mosaic_Virus": 415,
+    "Wilt_and_leaf_blight_on_lettuce": 6,
+    "banana_Cordana_leaf_spot": 162,
+    "banana_healthy": 91,
+    "banana_pestalotiopsis": 173,
+    "banana_sigatoka": 473,
+    "bean_angular_leaf_spot": 330,
+    "bean_healthy": 330,
+    "bean_rust": 330,
+    "chili_Bacterial_Spot": 152,
+    "chili_Cercospora_Leaf_Spot": 180,
+    "chili_Curl_Virus": 423,
+    "chili_Healthy": 458,
+    "chili_Nutrition_Deficiency": 444,
+    "chili_White_spot": 195,
+    "olive_Healthy": 891,
+    "olive_aculus_olearius": 876,
+    "olive_peacock_spot": 1458,
+    "plam_Black_Scorch": 49,
+    "plam_Fusarium_Wilt": 62,
+    "plam_Healthy": 27,
+    "plam_Leaf_Spots": 28,
+    "plam_Magnesium_Deficiency": 22,
+    "plam_Parlatoria_Blanchardi": 21,
+    "plam_Potassium_Deficiency": 58,
+    "plam_Rachis_Blight": 68,
+    "plam_infected_by_Bug": 541,
+    "plam_infected_by_Dubas": 797,
+    "rice_Bacterial_leaf_blight": 40,
+    "rice_Brown_spot": 40,
+    "rice_Leaf_smut": 40,
+    "wheat_leaf_brown_rust": 12,
+    "wheat_stem_black_rust": 12,
+    "wheat_strip_yellowrust": 12
+  },
+  "processing_log_samples": [
+    {
+      "image": "ade2b601-d2ea-4f5b-afc2-2c88aefea6b6___FREC_Scab 3464_new30degFlipLR.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "cd7234b0-3c97-4763-9d16-5a97c87140f7___FREC_Scab 3207_270deg.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "7efdde34-c75b-40bc-92ef-48de08ec0709___FREC_Scab 3027_270deg.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "14c623e5-051c-42f6-9e4f-f7a93e6a723c___FREC_Scab 2965.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "3523d2d8-0da9-4b83-b09d-21bd96860a3d___FREC_Scab 3499_90deg.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "e8fc927f-fac2-4386-be3c-0a8ad0ddd83d___FREC_Scab 3292_270deg.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "bceb695a-e877-4b2b-bf05-241661d511d4___FREC_Scab 3240.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "495816a8-4d85-47a5-9aca-a09f3f30a068___FREC_Scab 3443_new30degFlipLR.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "e181fe6a-6865-4ae7-8b3e-0ce6f70ac63b___FREC_Scab 3223_new30degFlipLR.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    },
+    {
+      "image": "1f6abf22-93fa-48f0-a509-cc3e210f75f0___FREC_Scab 3172.JPG",
+      "disease_class": "Apple_Apple_scab",
+      "original_shape": [
+        256,
+        256,
+        3
+      ],
+      "processed_shape": [
+        224,
+        224,
+        3
+      ],
+      "status": "success"
+    }
+  ]
+}

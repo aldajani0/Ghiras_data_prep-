@@ -1,0 +1,1334 @@
+[
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270.JPG",
+    "hash": "48f5d94e58351849b9f219c674323d58"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/acb21cc2-8d65-4880-a7bb-dcc1eab1564b___RS_HL 6272.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "acb21cc2-8d65-4880-a7bb-dcc1eab1564b___RS_HL 6272.JPG",
+    "hash": "8bbefab9461168ef9946618480d2f0ad"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/c21cf428-bfc3-4710-b5d2-69d1c0e94748___RS_HL 6268.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "c21cf428-bfc3-4710-b5d2-69d1c0e94748___RS_HL 6268.JPG",
+    "hash": "161940bd6e73cf648974cc7213cffb8f"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270_flipTB.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270_flipTB.JPG",
+    "hash": "67a0fed9ae5a338656a557335fec59d9"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/13298d36-4425-437d-ae8e-c7d70e200084___RS_HL 6271.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "13298d36-4425-437d-ae8e-c7d70e200084___RS_HL 6271.JPG",
+    "hash": "926f8ebcfc60d44649018c5154c8fcec"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/5192db55-4aa7-421c-92d4-c2dac79e7379___RS_HL 6273.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "5192db55-4aa7-421c-92d4-c2dac79e7379___RS_HL 6273.JPG",
+    "hash": "61cabcbf7a2412e44ce0bcee3c384a25"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274.JPG",
+    "hash": "fb72d1f9dbd2af9a9ee3fc3421ecf6a4"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274_flipTB.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274_flipTB.JPG",
+    "hash": "cdde9ba68b641da456e54531bf99229a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/3673d121-b5de-481c-b057-d4ee5b4959b1___RS_HL 6269.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "3673d121-b5de-481c-b057-d4ee5b4959b1___RS_HL 6269.JPG",
+    "hash": "68f05a541bf01c0fcfbc7f9445f8a147"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/c21cf428-bfc3-4710-b5d2-69d1c0e94748___RS_HL 6268_flipTB.JPG",
+    "disease_class": "Apple_healthy",
+    "filename": "c21cf428-bfc3-4710-b5d2-69d1c0e94748___RS_HL 6268_flipTB.JPG",
+    "hash": "35302bc2333c76c20452dfd38586f817"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber ـBacterialـWilt/Bacterial Wilt (82).jpg",
+    "disease_class": "Cucumber ـBacterialـWilt",
+    "filename": "Bacterial Wilt (82).jpg",
+    "hash": "a1b6d034ef2bd7770b5969d17e1b9790"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (147).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (147).jpg",
+    "hash": "c6c7d25fd41be05dd9e4b5755d37c81a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (146)(1).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (146)(1).jpg",
+    "hash": "9d4f67043c0dff7733dd28550950126c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (150)(1).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (150)(1).jpg",
+    "hash": "d242cdbfbc571b934f48c3920ae93b82"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (151)(1).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (151)(1).jpg",
+    "hash": "a7807f0a0849a14a29d2b4135a19b841"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (144).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (144).jpg",
+    "hash": "e016a54d239afb6dcd07e782d7100229"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (148).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (148).jpg",
+    "hash": "f601edb5b8e2b36786dc667817a2069d"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (149).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (149).jpg",
+    "hash": "5af40fdad8e492ecbad35a510334ff8a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (152)(1).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (152)(1).jpg",
+    "hash": "2e1185bc3ea00fbaecaab3be402ddb02"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (145).jpg",
+    "disease_class": "Cucumber_Pythium_Fruit_Rot",
+    "filename": "Pythium Fruit Rot  (145).jpg",
+    "hash": "55d2b7ad255b773aa8e258f75a085369"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Lettuce_Bacterial/bct (6).jpg",
+    "disease_class": "Lettuce_Bacterial",
+    "filename": "bct (6).jpg",
+    "hash": "b02b3e470100b2100c9c36f551356944"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Lettuce_Bacterial/bct (17).jpg",
+    "disease_class": "Lettuce_Bacterial",
+    "filename": "bct (17).jpg",
+    "hash": "117964014ec809e58c9c4abba72a7bdf"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Lettuce_Bacterial/bct (20).jpg",
+    "disease_class": "Lettuce_Bacterial",
+    "filename": "bct (20).jpg",
+    "hash": "0e2a7c4b37ff1ad678e914532be091ed"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (568).jpg",
+    "disease_class": "LettuceـShepherd_purse_weeds",
+    "filename": "spw (568).jpg",
+    "hash": "882d04a5b766c611ce73fff505346981"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (559).jpg",
+    "disease_class": "LettuceـShepherd_purse_weeds",
+    "filename": "spw (559).jpg",
+    "hash": "1fc2032b91a42a270ced4f360bafbfde"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (626).jpg",
+    "disease_class": "LettuceـShepherd_purse_weeds",
+    "filename": "spw (626).jpg",
+    "hash": "ce033db50365348fe6fa673d512d31fe"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (581).jpg",
+    "disease_class": "LettuceـShepherd_purse_weeds",
+    "filename": "spw (581).jpg",
+    "hash": "dfc487041ab86aaf261b525a21286da2"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Septoria_blight_on_lettuce/sbl (9).jpg",
+    "disease_class": "Septoria_blight_on_lettuce",
+    "filename": "sbl (9).jpg",
+    "hash": "76245c73bf20da276545150c01217e4b"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/5688ea99-c949-41d0-bbab-9cbf0ffb8bcd___GHLB2 Leaf 8677.JPG",
+    "disease_class": "Tomato_Late_blight",
+    "filename": "5688ea99-c949-41d0-bbab-9cbf0ffb8bcd___GHLB2 Leaf 8677.JPG",
+    "hash": "ca06650efa30a3f6731df694f07b4690"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/861d8b00-57a4-46b0-b51a-09d102dbe119___GHLB_PS Leaf 24 Day 13.jpg",
+    "disease_class": "Tomato_Late_blight",
+    "filename": "861d8b00-57a4-46b0-b51a-09d102dbe119___GHLB_PS Leaf 24 Day 13.jpg",
+    "hash": "c1b24c8caaa06e756560a83d7358579e"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/3fae9c64-18f0-4a67-9f97-554248bb1bed___GHLB_PS Leaf 24 Day 16.jpg",
+    "disease_class": "Tomato_Late_blight",
+    "filename": "3fae9c64-18f0-4a67-9f97-554248bb1bed___GHLB_PS Leaf 24 Day 16.jpg",
+    "hash": "bf12be065849d781b7da2e79091b1072"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/e5d707cd-077c-43af-bda9-6138e516ff51___GHLB2 Leaf 8999.JPG",
+    "disease_class": "Tomato_Late_blight",
+    "filename": "e5d707cd-077c-43af-bda9-6138e516ff51___GHLB2 Leaf 8999.JPG",
+    "hash": "0e0dcd876f5b32cac9da836b2e783d91"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/2c47b891-3c97-48f1-a2cc-5aa53d3a1148___GHLB2 Leaf 9011.JPG",
+    "disease_class": "Tomato_Late_blight",
+    "filename": "2c47b891-3c97-48f1-a2cc-5aa53d3a1148___GHLB2 Leaf 9011.JPG",
+    "hash": "1d87a50fa691cef6f476b20bb48cfaf8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/d6e6897a-5083-4914-9903-804c5684a956___GHLB2 Leaf 102.JPG",
+    "disease_class": "Tomato_Late_blight",
+    "filename": "d6e6897a-5083-4914-9903-804c5684a956___GHLB2 Leaf 102.JPG",
+    "hash": "5bdbdc7333be3ab35ef81ec17ce14816"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/98586693-fe1f-4ea0-8e27-4501b61cf09b___GHLB_PS Leaf 23.5 Day 13.jpg",
+    "disease_class": "Tomato_Late_blight",
+    "filename": "98586693-fe1f-4ea0-8e27-4501b61cf09b___GHLB_PS Leaf 23.5 Day 13.jpg",
+    "hash": "4bab4aa40d89e19ed72d8b8d501b1db8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg",
+    "disease_class": "Tomato_Late_blight",
+    "filename": "bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg",
+    "hash": "3b227920ba50ce0a4602b258f624e935"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/37203047-d8ba-43f7-b31e-d496c41c569c___GH_HL Leaf 389.JPG",
+    "disease_class": "Tomato_healthy",
+    "filename": "37203047-d8ba-43f7-b31e-d496c41c569c___GH_HL Leaf 389.JPG",
+    "hash": "2e53ad1ec3f810e2ff4c83400dc69ec9"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/9662364c-aaba-45e3-b907-10792d60578c___GH_HL Leaf 220.JPG",
+    "disease_class": "Tomato_healthy",
+    "filename": "9662364c-aaba-45e3-b907-10792d60578c___GH_HL Leaf 220.JPG",
+    "hash": "4b73700b68ce8704f6b4549a2846dede"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/1af0bfe1-4bcf-4b8b-be66-5d0953eb647e___GH_HL Leaf 482.2.JPG",
+    "disease_class": "Tomato_healthy",
+    "filename": "1af0bfe1-4bcf-4b8b-be66-5d0953eb647e___GH_HL Leaf 482.2.JPG",
+    "hash": "ea0a44df2e4e44c6ccacc31f067a6284"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/a5de43e7-fc2f-4a14-a8e6-c0f2f94c84f1___GH_HL Leaf 434.JPG",
+    "disease_class": "Tomato_healthy",
+    "filename": "a5de43e7-fc2f-4a14-a8e6-c0f2f94c84f1___GH_HL Leaf 434.JPG",
+    "hash": "6e48e89e89da343b6b90ccda5b18d698"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/34c81c57-e1fa-49dd-a49d-34fe8b2385fe___GH_HL Leaf 466.1.JPG",
+    "disease_class": "Tomato_healthy",
+    "filename": "34c81c57-e1fa-49dd-a49d-34fe8b2385fe___GH_HL Leaf 466.1.JPG",
+    "hash": "32cb22521edc69a5503a6749446dd522"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/e786ac89-29fe-47e3-b49e-b9a9ee7edd9d___GH_HL Leaf 342.1.JPG",
+    "disease_class": "Tomato_healthy",
+    "filename": "e786ac89-29fe-47e3-b49e-b9a9ee7edd9d___GH_HL Leaf 342.1.JPG",
+    "hash": "3dab5eb1192b5c43fd3015490cf0b18f"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/31.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "31.jpeg",
+    "hash": "8ff215ddcde2d26583eede978409cf37"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/104.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "104.jpeg",
+    "hash": "103895a253890ac041f064709c2863d9"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/1.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "1.jpeg",
+    "hash": "bd2592abbaee86a4f508a83697523739"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/124.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "124.jpeg",
+    "hash": "02a70c19e48f114144023a20f55c1e11"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/11.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "11.jpeg",
+    "hash": "b8e656e7994dd6e43f77f706727cb6de"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/16.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "16.jpeg",
+    "hash": "706e1fd576706b3efa77baa14e9d13fc"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/57.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "57.jpeg",
+    "hash": "2287b1fe6ef722724c05550a8d4ee8de"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/56.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "56.jpeg",
+    "hash": "b781341a9a2727291300efb6a340180c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/40.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "40.jpeg",
+    "hash": "0102a02819d1d09ba69cd01ea6f23e97"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/21.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "21.jpeg",
+    "hash": "cb0ce9e0e49ba92d94ba6198168073fd"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/63.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "63.jpeg",
+    "hash": "be33d89e750846203d57b7130af10e32"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/8.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "8.jpeg",
+    "hash": "bff2d5cac7ee1053bfe85de7c1f8c7d6"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/59.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "59.jpeg",
+    "hash": "11968cca150179dcd68a52a25554a63a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/101.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "101.jpeg",
+    "hash": "7dcc65cd8dc633c451a037dc2396c00c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/4.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "4.jpeg",
+    "hash": "843b86095f6266d9a1fb54849e3afd43"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/42.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "42.jpeg",
+    "hash": "0791a7080e766d3f633c4eff19fb3401"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/39.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "39.jpeg",
+    "hash": "fc8c159772097f22f03e72b08aeddc52"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/58.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "58.jpeg",
+    "hash": "fdbf5373908e4b8eb3787093be153309"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/23.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "23.jpeg",
+    "hash": "81f939b8e0ca36586e5e6f60ff1c2118"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/62.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "62.jpeg",
+    "hash": "2e2e1e230a7ed4aaf40ec07f131a14f2"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/9.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "9.jpeg",
+    "hash": "24eddb36357966e0065d0df2cdcaa46a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/2.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "2.jpeg",
+    "hash": "e64554c853770cea3e54ee12a1d3833c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/127.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "127.jpeg",
+    "hash": "1e722f8bde13deb9ab2671af9bd501e8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/45.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "45.jpeg",
+    "hash": "d4dffd25b15587b4a1d6a68c829f2f3a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/32.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "32.jpeg",
+    "hash": "a782f3b34f5fa99ec982d35b048ab408"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/107.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "107.jpeg",
+    "hash": "d4203e2953460ece5ff3b0a341d6476e"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/49.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "49.jpeg",
+    "hash": "e17aa1851d19b3c25ddd4f9718a3be29"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/111.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "111.jpeg",
+    "hash": "c3d6ffa558ce4c92b0f134b4553a0c11"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/48.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "48.jpeg",
+    "hash": "533146ec6a064d24e853287676525b2e"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/110.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "110.jpeg",
+    "hash": "5dc0fc32ca8a28e7a29970800a0ff625"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/106.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "106.jpeg",
+    "hash": "9471d5593ba1dad011f27c32f303f3e8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/25.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "25.jpeg",
+    "hash": "a1ff2939c5aa15eccca8fec3d37fdc77"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/33.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "33.jpeg",
+    "hash": "353441c29e29517a6d839ada753c9056"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/44.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "44.jpeg",
+    "hash": "4928ed28279c1e48d4790ac1ab6b9501"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/13.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "13.jpeg",
+    "hash": "37ffc1da83042e4b6eee458eb5a13060"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/29.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "29.jpeg",
+    "hash": "7ca3d8f96158e8e9f746f73973119d94"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/126.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "126.jpeg",
+    "hash": "a7d471faffc66ce20818366f17adae7c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/3.jpeg",
+    "disease_class": "banana_healthy",
+    "filename": "3.jpeg",
+    "hash": "f5204d18fc11451eaf7450bb07826421"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00155.JPG",
+    "disease_class": "chili_Bacterial_Spot",
+    "filename": "Bacterial Spot00155.JPG",
+    "hash": "70b673ba285a14a568edac1a5f882167"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00150.JPG",
+    "disease_class": "chili_Bacterial_Spot",
+    "filename": "Bacterial Spot00150.JPG",
+    "hash": "5335ff75a957ac210a26c2276b9d7b59"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00152.JPG",
+    "disease_class": "chili_Bacterial_Spot",
+    "filename": "Bacterial Spot00152.JPG",
+    "hash": "9afb612f61091d46a119188575d1b8e7"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00153.JPG",
+    "disease_class": "chili_Bacterial_Spot",
+    "filename": "Bacterial Spot00153.JPG",
+    "hash": "880c17267dd1b5486ab27b1df97d29c3"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-64.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-64.JPG",
+    "hash": "a28c04166bfe176a8aecfcc234bfc752"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-365 - Kopya.jpg",
+    "disease_class": "olive_Healthy",
+    "filename": "B-365 - Kopya.jpg",
+    "hash": "98ff3ac5cab4d0d2229482db10fad0c7"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-138.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-138.JPG",
+    "hash": "06932651980143bf26c6d5217abed9c4"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-366 - Kopya.jpg",
+    "disease_class": "olive_Healthy",
+    "filename": "B-366 - Kopya.jpg",
+    "hash": "7b28adac54eef73b851b7f8d06bbe75c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-104.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-104.JPG",
+    "hash": "ce37348a52566ca03f0d5de16f1fd946"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-528.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-528.JPG",
+    "hash": "e1910a3998a1bf2b6ef596882444de60"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-529.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-529.JPG",
+    "hash": "3d8827af936c49a9edd08ea0e5ef89db"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-105.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-105.JPG",
+    "hash": "5568518a493091c7f5277f85b2efd70a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-113.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-113.JPG",
+    "hash": "e1910a3998a1bf2b6ef596882444de60"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-611 - Kopya.jpg",
+    "disease_class": "olive_Healthy",
+    "filename": "B-611 - Kopya.jpg",
+    "hash": "ea8873561a2cd8f738fb278800db9f1d"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-112.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-112.JPG",
+    "hash": "5f1732172ff3bdfdc2dca0a6c8815820"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-115.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-115.JPG",
+    "hash": "3d8827af936c49a9edd08ea0e5ef89db"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-363 - Kopya.jpg",
+    "disease_class": "olive_Healthy",
+    "filename": "B-363 - Kopya.jpg",
+    "hash": "b2ef56bec87333542c7258e12eda82ee"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-364 - Kopya.jpg",
+    "disease_class": "olive_Healthy",
+    "filename": "B-364 - Kopya.jpg",
+    "hash": "772318efd7dff0e25654ac4c1e318081"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-131 - Kopya.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-131 - Kopya.JPG",
+    "hash": "f11f559c8fcebcd5d911f2473b1fe97d"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-124.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-124.JPG",
+    "hash": "09b432320e09849f81ffcd9fdc131e91"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-132.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-132.JPG",
+    "hash": "da245e75b44cc429b3623eadf10e9c84"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-126.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-126.JPG",
+    "hash": "753312177335b5bc0e3cd2bcc2d22c31"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-116 - Kopya.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-116 - Kopya.JPG",
+    "hash": "1b4755c055a7973722f0b997597e29c0"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-113 - Kopya.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-113 - Kopya.JPG",
+    "hash": "e1910a3998a1bf2b6ef596882444de60"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-526.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-526.JPG",
+    "hash": "d5eea2d1a80978137beda2b8765a8fc7"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-122.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-122.JPG",
+    "hash": "64ef8c91f74274e941eb50e8084e9e7a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-120.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-120.JPG",
+    "hash": "a28c04166bfe176a8aecfcc234bfc752"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-134.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-134.JPG",
+    "hash": "419705fdb200a937bb00d4de82ceb6db"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-108.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-108.JPG",
+    "hash": "d5eea2d1a80978137beda2b8765a8fc7"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-531.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-531.JPG",
+    "hash": "77896be8610667e984b49f5374612a3d"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-146.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-146.JPG",
+    "hash": "bc48bf79d30b5cbaa5d56f4cdaf2df65"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-68.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-68.JPG",
+    "hash": "3b021689d353f5c1228cd85a0c07b9ee"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-40.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-40.JPG",
+    "hash": "65ed47f2e27474b90eff0d5c13922040"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-119 - Kopya.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-119 - Kopya.JPG",
+    "hash": "0b764450c49f37e7012a20a4d4d5dc6b"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-55.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-55.JPG",
+    "hash": "e1910a3998a1bf2b6ef596882444de60"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-41.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-41.JPG",
+    "hash": "1b4755c055a7973722f0b997597e29c0"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-96.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-96.JPG",
+    "hash": "928b479fd6d2308cbd90b34146a3334e"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-621.jpg",
+    "disease_class": "olive_Healthy",
+    "filename": "B-621.jpg",
+    "hash": "490bd1af9f119f5a0e0c46ba6e5cc42c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-179.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-179.JPG",
+    "hash": "fb5593a97015a50eb2751fee45d3d2e5"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-94.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-94.JPG",
+    "hash": "f32161778786f17b5c6d5984922c606c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-80.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-80.JPG",
+    "hash": "20a20e1ba5d8493f76ef456b307ad888"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-42.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-42.JPG",
+    "hash": "15d1c708e2f69ea393b1d41d01a46826"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-56.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-56.JPG",
+    "hash": "3d8827af936c49a9edd08ea0e5ef89db"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-144.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-144.JPG",
+    "hash": "df66c27f830847eb06d5f2d7744b5300"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-81.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-81.JPG",
+    "hash": "8756f02439fb7d338db9836477671769"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-95.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-95.JPG",
+    "hash": "a1ee7fee203ee64a8b331c9d56e29429"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-91.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-91.JPG",
+    "hash": "70bc498157e5732410668657d5268f9c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-85.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-85.JPG",
+    "hash": "18891a4d3b664945296bd230796e0737"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-140.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-140.JPG",
+    "hash": "f3dcacc41dd4b6bc5c4bf8dba2e802a7"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-52.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-52.JPG",
+    "hash": "d773aa5a4268aaa02456c72c1ff05849"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-46.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-46.JPG",
+    "hash": "929eefccf692631c7ea2d3f3287e72cb"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-109 - Kopya.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-109 - Kopya.JPG",
+    "hash": "4a6f6573e05e6d42d9e1c26537b8d95d"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-182.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-182.JPG",
+    "hash": "bb087e0f3173ebd4352251fd2341a7f2"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-53.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-53.JPG",
+    "hash": "d5eea2d1a80978137beda2b8765a8fc7"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-155.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-155.JPG",
+    "hash": "8939bf56d4748ceb04872a3cb086fb80"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-92.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-92.JPG",
+    "hash": "a7d9a3ee202c864ed0bdc0d135ed0f5d"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-180.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-180.JPG",
+    "hash": "66fb1fff6bc4b4b12de8a4a0ad7d4172"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-45.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-45.JPG",
+    "hash": "66d25958f28a5658b323323793c46c34"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-51.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-51.JPG",
+    "hash": "eea84113eba344e66745b0b7b1e15385"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-132 - Kopya.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-132 - Kopya.JPG",
+    "hash": "da245e75b44cc429b3623eadf10e9c84"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-367 - Kopya.jpg",
+    "disease_class": "olive_Healthy",
+    "filename": "B-367 - Kopya.jpg",
+    "hash": "89a7a08ca873b483f454026f6b5f358c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-50.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-50.JPG",
+    "hash": "d10362dc1e20207322f244adf2803a55"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-44.JPG",
+    "disease_class": "olive_Healthy",
+    "filename": "B-44.JPG",
+    "hash": "19191d5ee94ea404598a74dafcabcaa9"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/361.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "361.jpg",
+    "hash": "e4267bd66798f461ed06aa41a37c56b8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/364.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "364.jpg",
+    "hash": "36e92894be206a6b6e0d897ef0dc83da"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/A698.JPG",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "A698.JPG",
+    "hash": "412bb30f63e0e9950961f61b41939bcf"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/383.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "383.jpg",
+    "hash": "8e9e334ce507a7fbeab70ddd00c9d91a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/55.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "55.jpg",
+    "hash": "bc60115913c4344190387f9047a9361c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/356.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "356.jpg",
+    "hash": "fbb4aaeea03e9abcad1041dba6d45c44"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/357.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "357.jpg",
+    "hash": "a3777cfbdb860c5336f837db938df9bd"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/380.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "380.jpg",
+    "hash": "bff59430dd668c608d60ae1fd2f2b969"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/54.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "54.jpg",
+    "hash": "b15b27e179f909ce06356dd93604d4ed"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/353.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "353.jpg",
+    "hash": "b9ddb75fa44a7c09c49a389cf2379b7c"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/385.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "385.jpg",
+    "hash": "ded84a3539840cddc3e74478ed7b5a4b"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/1.JPG",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "1.JPG",
+    "hash": "7b892d77c38df6152590b4486d76dbf6"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/DSC_1492.JPG",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "DSC_1492.JPG",
+    "hash": "3983d279d03da38b5c2b8295afb23f39"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/379.jpg",
+    "disease_class": "olive_aculus_olearius",
+    "filename": "379.jpg",
+    "hash": "365eaae0ce00cb25d05fbdb02ff33490"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_peacock_spot/A673.JPG",
+    "disease_class": "olive_peacock_spot",
+    "filename": "A673.JPG",
+    "hash": "ebff5aaacdc6c248895385343fc92a19"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/olive_peacock_spot/A674 - Kopya.JPG",
+    "disease_class": "olive_peacock_spot",
+    "filename": "A674 - Kopya.JPG",
+    "hash": "aa58b99313dc80a36de4dea606c90710"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_Rachis_Blight/30.1.jpeg",
+    "disease_class": "plam_Rachis_Blight",
+    "filename": "30.1.jpeg",
+    "hash": "02b105070897b934be64f197a45d0983"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(437).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(437).JPG",
+    "hash": "5e96299b5a6a2363095b0f956b137d74"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(158).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(158).JPG",
+    "hash": "2e5100edd5aba3cc644e2ac091fd43fa"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(416).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(416).JPG",
+    "hash": "1dd8f41de88d594ef5587e963e9711d2"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(512).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(512).JPG",
+    "hash": "5e96299b5a6a2363095b0f956b137d74"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(284).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(284).JPG",
+    "hash": "49536aceb91b4f85e35186656da15a7b"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(466).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(466).JPG",
+    "hash": "50ed58d8bf6f16b3b4bf487a7b003771"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(450).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(450).JPG",
+    "hash": "8247e09ccc0b9169080f127a22b33fd3"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(542).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(542).JPG",
+    "hash": "cb08bdc543acbcf8b25c0c33f733cfe2"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(554).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(554).JPG",
+    "hash": "c25640919aec53a6eb2c7e777bdca6e4"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(168).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(168).JPG",
+    "hash": "3bc7cb5a24025f4a1a8d16d463e96bdd"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(257).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(257).JPG",
+    "hash": "6d1d957b1c3677b93ea5458f14538e59"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(282).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(282).JPG",
+    "hash": "a3e445e487a63e52f75bdba2dce82298"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(563).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(563).JPG",
+    "hash": "3205d396e932ef39ea066b76e0a855a8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(426).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(426).JPG",
+    "hash": "557dc3fabfa9b331f727f74c21d98f28"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(534).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(534).JPG",
+    "hash": "dd7d1fe17c84e380527c06b39958ee4e"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(467).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(467).JPG",
+    "hash": "ef37b850ce5a81cd8d63ccde8a645a1a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(430).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(430).JPG",
+    "hash": "df50d3d0afae9a3e018fed996d929891"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(220).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(220).JPG",
+    "hash": "8235b6c14d19bf2e5da4c1edede9baff"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(425).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(425).JPG",
+    "hash": "cca295f656088a67a7e978ae3e3d3c95"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(472).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(472).JPG",
+    "hash": "495d2facd9fffd24ba91d98fc685e195"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(167).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(167).JPG",
+    "hash": "daea4317e43552c021ba9216f88393a0"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(433).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(433).JPG",
+    "hash": "632835ac1794227fb285518ac993b26f"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(599).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(599).JPG",
+    "hash": "ef37b850ce5a81cd8d63ccde8a645a1a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(262).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(262).JPG",
+    "hash": "2686fa5a706ffda0c02e9afdc0581a5e"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(468).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(468).JPG",
+    "hash": "c25640919aec53a6eb2c7e777bdca6e4"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(151).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(151).JPG",
+    "hash": "79b0f30ab7a071d131c300e885028048"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(501).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(501).JPG",
+    "hash": "c765ae237986c6c9be6ef78b9854ce96"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(278).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(278).JPG",
+    "hash": "ee9e414c9c4a9de036e5dc0e978b46c0"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(541).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(541).JPG",
+    "hash": "129662807a5fa70bc3f1e7a74f939971"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(279).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(279).JPG",
+    "hash": "e18ea61344ae83a68980d8c57072f272"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(594).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(594).JPG",
+    "hash": "4cbe4e0e0e81f28641714f457a692d9d"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(490).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(490).JPG",
+    "hash": "cb0eef9b7735a946654ecbd8a6eccfc9"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(428).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(428).JPG",
+    "hash": "f94a8bca158436d2f9fc2c9e721e02ce"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(449).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(449).JPG",
+    "hash": "92426e63e19cb3c0ebae583c181a12a4"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(275).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(275).JPG",
+    "hash": "dc135ecabff5462b2ef1b4e05c32f65d"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(598).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(598).JPG",
+    "hash": "50ed58d8bf6f16b3b4bf487a7b003771"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(259).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(259).JPG",
+    "hash": "82f8d7197f12f5fa0975ae9d8b26c26e"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(473).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(473).JPG",
+    "hash": "2710b1573bcb3bda45afa1132e1d5f19"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(585).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(585).JPG",
+    "hash": "ae7765e12aa9a45ad7c789f0f6cf8ac9"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(507).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(507).JPG",
+    "hash": "c0b11f7d22876679d3ae579cd7b8cab5"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(511).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(511).JPG",
+    "hash": "2e5100edd5aba3cc644e2ac091fd43fa"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(454).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(454).JPG",
+    "hash": "5007a733ea4ac5bd0a66e84348f4fa28"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(531).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(531).JPG",
+    "hash": "854fc4c220e8cb536983120cead9ec90"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(272).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(272).JPG",
+    "hash": "1c5a7145466bc12461233c2933a73e59"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(419).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(419).JPG",
+    "hash": "886e65d54d94b2f3f820d32e378a9533"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(264).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(264).JPG",
+    "hash": "8a1dde79ef9b7e55721ad31ca7f72bf8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(459).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(459).JPG",
+    "hash": "24d623fe8b234baf32f2fec2e433eadc"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(418).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(418).JPG",
+    "hash": "f8fc0d311a24cb38ccb899e0aa435d0a"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(434).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(434).JPG",
+    "hash": "4fee323260dc61f619b39c59111cf41b"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(475).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(475).JPG",
+    "hash": "a843a09aef5f25303944dd33f4e5bbac"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(160).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(160).JPG",
+    "hash": "95632585d2f122745e92e7ddc7fcfb46"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(249).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(249).JPG",
+    "hash": "ba01688094e7f3199504882b16721b2e"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(588).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(588).JPG",
+    "hash": "05501392c91d36a420550a44558afd18"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(286).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(286).JPG",
+    "hash": "8b4ab40e7ccf0567caf125ae01fad3a8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(269).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(269).JPG",
+    "hash": "b973c529387b136c10ccbdb19ce95a53"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(510).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(510).JPG",
+    "hash": "a5727928218944e14c4e67ffc8188cc8"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(455).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(455).JPG",
+    "hash": "c9095ade97c249977a4f73f078b1e305"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(156).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(156).JPG",
+    "hash": "df50d3d0afae9a3e018fed996d929891"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(253).JPG",
+    "disease_class": "plam_infected_by_Bug",
+    "filename": "Bug(253).JPG",
+    "hash": "e040880284465be779a0b260f7229a62"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Dubas/Mixed(414).JPG",
+    "disease_class": "plam_infected_by_Dubas",
+    "filename": "Mixed(414).JPG",
+    "hash": "4a5def35ba32209e5a8cccfe0b07b679"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Dubas/Mixed(316).JPG",
+    "disease_class": "plam_infected_by_Dubas",
+    "filename": "Mixed(316).JPG",
+    "hash": "a0eeeb5b9e899686b4ea01766b77c5aa"
+  },
+  {
+    "path": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Dubas/Mixed(318).JPG",
+    "disease_class": "plam_infected_by_Dubas",
+    "filename": "Mixed(318).JPG",
+    "hash": "87888f377045101b1ea7549915a98588"
+  }
+]

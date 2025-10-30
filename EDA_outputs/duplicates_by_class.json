@@ -1,0 +1,304 @@
+{
+  "Apple_healthy": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/acb21cc2-8d65-4880-a7bb-dcc1eab1564b___RS_HL 6272.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/c21cf428-bfc3-4710-b5d2-69d1c0e94748___RS_HL 6268.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270_flipTB.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/13298d36-4425-437d-ae8e-c7d70e200084___RS_HL 6271.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/5192db55-4aa7-421c-92d4-c2dac79e7379___RS_HL 6273.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274_flipTB.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/3673d121-b5de-481c-b057-d4ee5b4959b1___RS_HL 6269.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/c21cf428-bfc3-4710-b5d2-69d1c0e94748___RS_HL 6268_flipTB.JPG"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/Apple_healthy/4c7d424b-d418-4b72-84a9-2a639eabb5ec___RS_HL 5734.JPG"
+  },
+  "Cucumber ـBacterialـWilt": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber ـBacterialـWilt/Bacterial Wilt (82).jpg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber ـBacterialـWilt/Bacterial Wilt (112).jpg"
+  },
+  "Cucumber_Pythium_Fruit_Rot": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (147).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (146)(1).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (150)(1).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (151)(1).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (144).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (148).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (149).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (152)(1).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (145).jpg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/Cucumber_Pythium_Fruit_Rot/Pythium Fruit Rot  (146).jpg"
+  },
+  "Lettuce_Bacterial": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/Lettuce_Bacterial/bct (6).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Lettuce_Bacterial/bct (17).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Lettuce_Bacterial/bct (20).jpg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/Lettuce_Bacterial/bct (15).jpg"
+  },
+  "LettuceـShepherd_purse_weeds": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (568).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (559).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (626).jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (581).jpg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/LettuceـShepherd_purse_weeds/spw (384).jpg"
+  },
+  "Septoria_blight_on_lettuce": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/Septoria_blight_on_lettuce/sbl (9).jpg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/Septoria_blight_on_lettuce/sbl (1).jpg"
+  },
+  "Tomato_Late_blight": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/5688ea99-c949-41d0-bbab-9cbf0ffb8bcd___GHLB2 Leaf 8677.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/861d8b00-57a4-46b0-b51a-09d102dbe119___GHLB_PS Leaf 24 Day 13.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/3fae9c64-18f0-4a67-9f97-554248bb1bed___GHLB_PS Leaf 24 Day 16.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/e5d707cd-077c-43af-bda9-6138e516ff51___GHLB2 Leaf 8999.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/2c47b891-3c97-48f1-a2cc-5aa53d3a1148___GHLB2 Leaf 9011.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/d6e6897a-5083-4914-9903-804c5684a956___GHLB2 Leaf 102.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/98586693-fe1f-4ea0-8e27-4501b61cf09b___GHLB_PS Leaf 23.5 Day 13.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_Late_blight/3d9cca85-96cf-4186-b863-933bbbbc8075___GHLB2 Leaf 117.4.JPG"
+  },
+  "Tomato_healthy": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/37203047-d8ba-43f7-b31e-d496c41c569c___GH_HL Leaf 389.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/9662364c-aaba-45e3-b907-10792d60578c___GH_HL Leaf 220.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/1af0bfe1-4bcf-4b8b-be66-5d0953eb647e___GH_HL Leaf 482.2.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/a5de43e7-fc2f-4a14-a8e6-c0f2f94c84f1___GH_HL Leaf 434.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/34c81c57-e1fa-49dd-a49d-34fe8b2385fe___GH_HL Leaf 466.1.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/e786ac89-29fe-47e3-b49e-b9a9ee7edd9d___GH_HL Leaf 342.1.JPG"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/Tomato_healthy/9e2a71e5-2a59-4e62-9c6c-581fe9091a10___RS_HL 0132.JPG"
+  },
+  "banana_healthy": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/31.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/104.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/1.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/124.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/11.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/16.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/57.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/56.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/40.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/21.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/63.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/8.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/59.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/101.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/4.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/42.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/39.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/58.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/23.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/62.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/9.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/2.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/127.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/45.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/32.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/107.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/49.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/111.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/48.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/110.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/106.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/25.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/33.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/44.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/13.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/29.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/126.jpeg",
+      "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/3.jpeg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/banana_healthy/47.jpeg"
+  },
+  "chili_Bacterial_Spot": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00155.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00150.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00152.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00153.JPG"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/chili_Bacterial_Spot/Bacterial Spot00002.JPG"
+  },
+  "olive_Healthy": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-64.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-365 - Kopya.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-138.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-366 - Kopya.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-104.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-528.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-529.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-105.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-113.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-611 - Kopya.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-112.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-115.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-363 - Kopya.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-364 - Kopya.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-131 - Kopya.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-124.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-132.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-126.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-116 - Kopya.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-113 - Kopya.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-526.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-122.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-120.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-134.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-108.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-531.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-146.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-68.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-40.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-119 - Kopya.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-55.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-41.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-96.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-621.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-179.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-94.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-80.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-42.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-56.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-144.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-81.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-95.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-91.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-85.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-140.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-52.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-46.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-109 - Kopya.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-182.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-53.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-155.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-92.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-180.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-45.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-51.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-132 - Kopya.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-367 - Kopya.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-50.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/B-44.JPG"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/olive_Healthy/IMG_20190729_180018.jpg"
+  },
+  "olive_aculus_olearius": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/361.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/364.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/A698.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/383.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/55.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/356.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/357.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/380.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/54.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/353.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/385.jpg",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/1.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/DSC_1492.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/379.jpg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/olive_aculus_olearius/63.jpg"
+  },
+  "olive_peacock_spot": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_peacock_spot/A673.JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/olive_peacock_spot/A674 - Kopya.JPG"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/olive_peacock_spot/IMG_20190729_193702.jpg"
+  },
+  "plam_Rachis_Blight": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_Rachis_Blight/30.1.jpeg"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/plam_Rachis_Blight/47.1.jpg"
+  },
+  "plam_infected_by_Bug": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(437).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(158).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(416).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(512).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(284).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(466).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(450).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(542).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(554).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(168).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(257).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(282).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(563).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(426).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(534).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(467).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(430).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(220).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(425).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(472).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(167).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(433).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(599).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(262).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(468).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(151).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(501).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(278).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(541).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(279).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(594).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(490).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(428).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(449).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(275).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(598).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(259).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(473).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(585).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(507).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(511).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(454).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(531).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(272).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(419).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(264).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(459).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(418).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(434).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(475).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(160).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(249).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(588).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(286).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(269).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(510).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(455).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(156).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(253).JPG"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Bug/Bug(285).JPG"
+  },
+  "plam_infected_by_Dubas": {
+    "duplicates": [
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Dubas/Mixed(414).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Dubas/Mixed(316).JPG",
+      "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Dubas/Mixed(318).JPG"
+    ],
+    "kept_example": "/Users/amirah/Ghiras's datast/THE DATA/plam_infected_by_Dubas/Mixed(67).jpg"
+  }
+}
