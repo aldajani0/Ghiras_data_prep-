@@ -1,7 +1,6 @@
 
 <div align="center">
 
-<img src="./plant_disease_project2/processing_techniques/processing_pipeline_inplace.png" width="75%" alt="Ghiras data pipeline overview">
 
 # Ghiras Data Preparation · Plant Disease Dataset Pipeline
 
